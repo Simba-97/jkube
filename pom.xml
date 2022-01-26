@@ -110,7 +110,7 @@
     <version.maven-surefire-plugin>3.0.0-M5</version.maven-surefire-plugin>
     <version.mockito>3.11.2</version.mockito>
     <version.plexus-component-metadata>1.7.1</version.plexus-component-metadata>
-    <version.slf4j-api>1.7.25</version.slf4j-api>
+    <version.slf4j-api>1.7.35</version.slf4j-api>
     <version.license-maven-plugin>3.0</version.license-maven-plugin>
     <project.build.outputTimestamp>2020-11-08T11:04:00Z</project.build.outputTimestamp>
   </properties>
